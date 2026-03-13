@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CansDE</h1>
+<h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
 
 - 🌱 I’m currently learning **Go**
